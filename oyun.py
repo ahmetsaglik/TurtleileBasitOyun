@@ -2,7 +2,7 @@
 import turtle
 import math
 import random
-
+## DENEME SATIRI
 skor = 0
 canHakki = 3
 maksHedef = 5
